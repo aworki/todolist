@@ -1,0 +1,15 @@
+1、node-sass安装一直失败
+npm install sass node-sass@npm:sass  这个命令
+并且记得导入css文件 ！！！
+
+
+2、localStorage的用法
+localStorage是随浏览器存在的对象，有setItem方法和getItem方法
+
+3、JSON的格式和用法
+JSON是一种格式，普通的值要转化成JSON格式要用JSON.stringfy函数，反过来要用JSON.parse函数
+
+4、useCallBack的用法
+父组件的函数传给子组件时最好都都用useCallBack包装一遍
+
+5、箭头函数函数体不加花括号和加花括号
