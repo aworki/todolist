@@ -10,10 +10,8 @@ import './assets/js/common';
 
 
 
-ReactDOM.render(
-
-    <App />
-,
+ReactDOM.render( <
+  App / > ,
   document.getElementById('root')
 );
 

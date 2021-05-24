@@ -90,7 +90,7 @@ function App() {
 
   return (
     <div className="App">
-      
+      你好
       <CheckModal
         isShowCheckModal={isShowCheckModal}
         closeModal={()=>setisShowCheckModal(false)}
